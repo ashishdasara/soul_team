@@ -19,7 +19,7 @@ gem "solid_cable"
 gem "bootsnap", require: false
 # gem "kamal", require: false
 
-gem "bootstrap", "~> 5.3.3"
+gem "bootstrap", "~> 5.3.5"
 gem "jquery-rails"
 gem "jquery-ui-rails"
 
