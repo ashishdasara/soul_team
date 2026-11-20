@@ -1,15 +1,51 @@
-README.md
+# Knowledge Catalog
+
+## README.md
+
 Purpose:
 Repository overview
 
-src/
-Purpose:
-Application code
+Indexed:
+Yes
 
-spec/
-Purpose:
-Tests
+Priority:
+High
 
-docs/
+---
+
+## app/
+
 Purpose:
-Architecture knowledge
+Application source code
+
+Indexed:
+Yes
+
+Priority:
+High
+
+---
+
+## docs/
+
+Purpose:
+Architecture and business knowledge
+
+Indexed:
+Yes
+
+Priority:
+High
+
+---
+
+## spec/
+
+Purpose:
+Tests and examples
+
+Indexed:
+Yes
+
+Priority:
+Medium
